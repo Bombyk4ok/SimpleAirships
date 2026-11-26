@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "normal": { "model": "minecraft:white_wool" },
+    "inventory": { "model": "minecraft:white_wool" }
+  }
+}
